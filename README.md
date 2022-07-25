@@ -4,5 +4,5 @@
 
 ### Student: Greg Sciame
 
-[Programming](/programming.md)
+[Programming](/pages/programming.md)
 
