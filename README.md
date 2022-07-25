@@ -1,5 +1,8 @@
+# Hunter College Advanced Computer Science
+### June 29 - August 2
 # nycscertweb
 
 ### Student: Greg Sciame
 
-#### July 22, 2022
+[Programming](https://www.google.com)
+
