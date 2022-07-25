@@ -4,6 +4,7 @@
 ### Greg Sciame
 
 
+[Click here for the Craps.java code](https://github.com/hunter-teacher-cert/cohort-3-summer-work-sciame/blob/master/programming/pre/8/Craps.java)
 
 ![Craps Game from pre-work](/images/craps_.JPG)
 
