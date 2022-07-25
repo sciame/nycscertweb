@@ -9,3 +9,4 @@
 ![Craps Game from pre-work](/images/craps_.JPG)
 
 
+<a href = "https://github.com/hunter-teacher-cert/cohort-3-summer-work-sciame/blob/master/programming/pre/8/Craps.java">Click here for source code</a>
