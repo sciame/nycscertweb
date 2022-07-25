@@ -2,3 +2,9 @@
 
 
 ### Greg Sciame
+
+
+Inline-style: 
+![Craps Game from pre-work](/images/craps_.JPG)
+
+
