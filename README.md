@@ -1,5 +1,5 @@
 # Hunter College Advanced Computer Science Certificate
-# 
+
 ### June 29 - August 2
 # nycscertweb
 
